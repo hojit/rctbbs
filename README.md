@@ -1,2 +1,2 @@
 # rctbbs
-给予react的论坛系统
+基于react的论坛系统
